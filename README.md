@@ -2,8 +2,8 @@
 Opencore Sonoma EFI
 
 <img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Sonoma-14.4.1/screenshots/1.png" width="70%" class="aligncenter">
-<img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Sonoma/blob/main/screenshots/2.png" width="35%" class="aligncenter">
-<img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Sonoma/blob/main/screenshots/3.png" width="100%" class="aligncenter">
+<img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Sonoma-14.4.1/blob/main/screenshots/2.png" width="35%" class="aligncenter">
+<img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Sonoma-14.4.1/blob/main/screenshots/3.png" width="100%" class="aligncenter">
 
 ## Specs:
 
