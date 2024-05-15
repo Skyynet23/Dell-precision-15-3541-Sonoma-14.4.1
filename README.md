@@ -35,6 +35,7 @@ Opencore Sonoma EFI
 
 ## What does not work:
 - Airdrop
+- Unlocking via apple watch because a supported network card is not used
 
 ## Disclamers:
 
