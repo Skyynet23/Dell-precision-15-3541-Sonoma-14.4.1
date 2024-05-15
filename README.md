@@ -33,6 +33,9 @@ Opencore Sonoma EFI
 - MicroSD Card reader
 - Many more which either works but I haven't found out yet or simply won't work
 
+## What does not work:
+- Airdrop
+
 ## Disclamers:
 
 I'm not responsible for any bricked devices, dead hard drives, Special Military Operation, or your project getting delayed because the whole thing won't boot up.
