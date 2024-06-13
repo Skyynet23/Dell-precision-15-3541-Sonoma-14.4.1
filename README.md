@@ -1,4 +1,4 @@
-# Dell-precision-15-3541-Sonoma-14.4.1
+# Dell-precision-15-3541-Sonoma-14.5
 Opencore Sonoma EFI
 
 <img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Sonoma-14.4.1/blob/main/screenshots/1.png" width="70%" class="aligncenter">
@@ -36,6 +36,10 @@ Opencore Sonoma EFI
 ## What does not work:
 - Airdrop
 - Unlocking via apple watch because a supported network card is not used
+
+## INFO
+-Intel AC9560 is working with WiFi, but APPLE SERVICES do not work.
+If you remove the KEXT Airportitlwm and enable Itlwm.kext, both WiFi and Apple services will work but only through HeliPort.
 
 ## Disclamers:
 
