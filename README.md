@@ -36,6 +36,7 @@ Opencore Sonoma EFI
 ## What does not work:
 - Airdrop
 - Unlocking via apple watch because a supported network card is not used
+- The trackpad is functional, but it is not visible in the settings.
 
 ## INFO
 -Intel AC9560 is working with WiFi, but APPLE SERVICES do not work.
